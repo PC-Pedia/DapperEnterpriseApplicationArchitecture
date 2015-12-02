@@ -1,0 +1,11 @@
+D:\projects\LCWIK\DapperService\bin\Debug\DapperService.dll
+D:\projects\LCWIK\DapperService\bin\Debug\DapperService.pdb
+D:\projects\LCWIK\DapperService\bin\Debug\DapperRepository.dll
+D:\projects\LCWIK\DapperService\bin\Debug\MicroOrm.Pocos.SqlGenerator.dll
+D:\projects\LCWIK\DapperService\bin\Debug\Dapper.dll
+D:\projects\LCWIK\DapperService\bin\Debug\DapperRepository.pdb
+D:\projects\LCWIK\DapperService\bin\Debug\Dapper.pdb
+D:\projects\LCWIK\DapperService\bin\Debug\Dapper.xml
+D:\projects\LCWIK\DapperService\obj\Debug\Dapper.Service.csprojResolveAssemblyReference.cache
+D:\projects\LCWIK\DapperService\obj\Debug\DapperService.dll
+D:\projects\LCWIK\DapperService\obj\Debug\DapperService.pdb

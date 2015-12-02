@@ -1,0 +1,9 @@
+D:\projects\LCWIK\DapperRepository\bin\Debug\DapperRepository.dll
+D:\projects\LCWIK\DapperRepository\bin\Debug\DapperRepository.pdb
+D:\projects\LCWIK\DapperRepository\bin\Debug\Dapper.dll
+D:\projects\LCWIK\DapperRepository\bin\Debug\MicroOrm.Pocos.SqlGenerator.dll
+D:\projects\LCWIK\DapperRepository\bin\Debug\Dapper.pdb
+D:\projects\LCWIK\DapperRepository\bin\Debug\Dapper.xml
+D:\projects\LCWIK\DapperRepository\obj\Debug\Dapper.Repository.csprojResolveAssemblyReference.cache
+D:\projects\LCWIK\DapperRepository\obj\Debug\DapperRepository.dll
+D:\projects\LCWIK\DapperRepository\obj\Debug\DapperRepository.pdb

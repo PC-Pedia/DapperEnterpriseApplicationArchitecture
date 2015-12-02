@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Framework", "Framework", "{9A63B5D0-DBBA-4C69-A25B-CB1DE1E82E56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper.Repository", "DapperRepository\Dapper.Repository.csproj", "{9BBBE4E0-B900-40B5-86B9-88FCE941AF4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper.Service", "DapperService\Dapper.Service.csproj", "{574EE624-4A24-4ACC-9BD3-554D86D834BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperEnterpriseApplicationArchitecture.Model", "DapperEnterpriseApplicationArchitecture.Model\DapperEnterpriseApplicationArchitecture.Model.csproj", "{7C370FAE-5863-4FB8-B441-408866EAF1F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperEnterpriseApplicationArchitecture.DbSchema", "DapperEnterpriseApplicationArchitecture.DbSchema\DapperEnterpriseApplicationArchitecture.DbSchema.csproj", "{8E77BE2B-4501-4644-B744-61E561B6DB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperEnterpriseApplicationArchitecture.Web", "DapperEnterpriseApplicationArchitecture.Web\DapperEnterpriseApplicationArchitecture.Web.csproj", "{8747B548-39DE-4EBD-B425-678E7841A509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperEnterpriseApplicationArchitecture.Tests", "DapperEnterpriseApplicationArchitecture.Tests\DapperEnterpriseApplicationArchitecture.Tests.csproj", "{EB8811A5-28F0-4F74-A71F-963102978849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BBBE4E0-B900-40B5-86B9-88FCE941AF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBBE4E0-B900-40B5-86B9-88FCE941AF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBBE4E0-B900-40B5-86B9-88FCE941AF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBBE4E0-B900-40B5-86B9-88FCE941AF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{574EE624-4A24-4ACC-9BD3-554D86D834BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574EE624-4A24-4ACC-9BD3-554D86D834BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574EE624-4A24-4ACC-9BD3-554D86D834BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574EE624-4A24-4ACC-9BD3-554D86D834BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C370FAE-5863-4FB8-B441-408866EAF1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C370FAE-5863-4FB8-B441-408866EAF1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C370FAE-5863-4FB8-B441-408866EAF1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C370FAE-5863-4FB8-B441-408866EAF1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E77BE2B-4501-4644-B744-61E561B6DB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E77BE2B-4501-4644-B744-61E561B6DB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E77BE2B-4501-4644-B744-61E561B6DB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E77BE2B-4501-4644-B744-61E561B6DB64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8747B548-39DE-4EBD-B425-678E7841A509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8747B548-39DE-4EBD-B425-678E7841A509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8747B548-39DE-4EBD-B425-678E7841A509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8747B548-39DE-4EBD-B425-678E7841A509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB8811A5-28F0-4F74-A71F-963102978849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8811A5-28F0-4F74-A71F-963102978849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8811A5-28F0-4F74-A71F-963102978849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8811A5-28F0-4F74-A71F-963102978849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9BBBE4E0-B900-40B5-86B9-88FCE941AF4F} = {9A63B5D0-DBBA-4C69-A25B-CB1DE1E82E56}
+		{574EE624-4A24-4ACC-9BD3-554D86D834BE} = {9A63B5D0-DBBA-4C69-A25B-CB1DE1E82E56}
+	EndGlobalSection
+EndGlobal
